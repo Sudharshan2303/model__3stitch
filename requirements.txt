@@ -1,5 +1,4 @@
 
-Copy
 streamlit
 opencv-python
 numpy
