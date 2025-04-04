@@ -1,0 +1,6 @@
+
+Copy
+streamlit
+opencv-python
+numpy
+Pillow
